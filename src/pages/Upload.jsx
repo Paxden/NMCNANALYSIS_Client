@@ -1,4 +1,4 @@
-// pages/dashboard/UploadExam.jsx
+
 import { useState } from "react";
 import api from "../api/Auth";
 import { useAuth } from "../context/AuthContext";
